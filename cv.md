@@ -4,7 +4,7 @@
 *E-mail:* <9868425@gmail.com>  
 *Phone:* +7(962)686-84-25  
 *Telegram:* @MrVereshchagin  
-*LinkedIn*  
+*LinkedIn:* linkedin.com/in/igor-vereshchagin-ba2126196 
 ### About myself
 Hello!
 I'm 37 years old. I have worked as a lawyer about 14 years. I was a director of my own company, then was a head of legal department of local construction company. Today I am a leading lawyer in one of the Rosatom holding's company. I have do it my best!
