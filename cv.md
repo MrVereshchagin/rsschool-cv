@@ -14,6 +14,10 @@ I want to became a developer, and I think it's possible for me. It's very hard c
 I need more knowledge for my goal. Therefore I'am learning in RSschool.
 Wish me luck!
 
+### Education
+Herzen State Pedagogical University of Russia, St.Petersburg.
+2001 - 2006,  Law School, specialist, Civil rights lawyer.
+
 ### Skills
 * HTML5 and CSS3
 * JavaScript Basics
