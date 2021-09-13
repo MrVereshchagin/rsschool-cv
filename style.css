@@ -33,7 +33,7 @@ header {
     justify-content: space-around;
 }
 
-img {
+.image {
     margin: 10px;
     width: 250px;
     height: 250px;
@@ -53,4 +53,25 @@ section {
     margin: 20px;
     padding: 20px;
 
+}
+
+img {
+    width: 73px;
+    height: 26px;
+}
+
+code {
+    text-align: right;
+}
+
+.container__footer {
+    width: auto;
+    height: 50px;
+    display: flex;
+    justify-content: space-around;
+    background-color: slategray;
+}
+
+.github {
+    text-decoration: none;
 }
