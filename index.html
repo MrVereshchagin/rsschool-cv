@@ -6,6 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CV</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="libs/atom-one-light.min.css">
+    <script src="libs/highlight.min.js"></script>
+    <script>hljs.highlightAll();</script>
 </head>
 <body>
     <div class="container-center">
@@ -79,20 +82,22 @@
                 <p>Javascript task is to write a function that takes a string and return a new string with all vowels removed.
                     (Note: for this kata <span>y</span> isn't considered a vowel.)
                 </p>
-                <p>
-                    <code>
-                        "function disemvowel(str) {<br>
-                            const vowels = ['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U'];<br>
-                            let result = '';<br>
-                            for (let char of str) {<br>
-                              if(!vowels.includes(char)) {<br>
-                                result += char;<br>
-                              } <br>
-                            } <br>
-                            return result; <br>
-                          }" <br>
-                    </code>
-                </p>
+                <div class="js">
+                    <pre>
+                        <code id="code">
+function disemvowel(str) {
+    const vowels = ['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U'];
+    let result = '';
+    for (let char of str) {
+        if(!vowels.includes(char)) {
+            result += char;
+        }
+    }
+    return result;
+}
+                        </code>
+                    </pre>
+                </div>
             </div>
         </section>  
     

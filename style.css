@@ -12,7 +12,7 @@ body {
 
 .container-center {
     margin: 20px auto;
-    width: 1024px;
+    max-width: 1024px;
     font-size: 18px;
     line-height: 1.5;
     background-color: #ffffff;
@@ -30,6 +30,7 @@ header {
     width: auto;
     height: auto;
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-around;
 }
 
@@ -60,8 +61,8 @@ img {
     height: 26px;
 }
 
-code {
-    text-align: right;
+.js {
+    text-align: left;
 }
 
 .container__footer {
